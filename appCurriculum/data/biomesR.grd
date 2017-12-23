@@ -1,0 +1,26 @@
+[general]
+creator=R package 'raster'
+created=2017-12-21 13:48:15
+[georeference]
+nrows=848
+ncols=567
+xmin=-18700052.5216099
+ymin=-7530995.18454291
+xmax=-1349852.52160995
+ymax=18417804.8154571
+projection=+init=epsg:3857 +proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +no_defs
+[data]
+datatype=FLT4S
+byteorder=little
+nbands=1
+bandorder=BIL
+categorical=FALSE
+minvalue=1
+maxvalue=10
+nodatavalue=-3.4e+38
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=layer

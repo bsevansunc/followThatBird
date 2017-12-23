@@ -1,0 +1,53 @@
+﻿<h1>Radio telemetry</h1>
+<hr>
+
+<h3>What is radio telemetry?</h3>
+
+<img src="radioReceiver.jpg"
+	title="A radio receiver like this is used to determine the location of radio tagged birds"
+	alt = "A photograph of a receiver that scientists use to find radio tagged birds" 
+	align="left"
+	width="450px"  
+	style= "margin-top: 10px;
+    		margin-bottom: 10px;
+    		margin-right:20px;
+    		margin-left: 0px;"/>
+ 
+<p>Since the 1960s, scientists have been using radio telemetry to locate animals and track their movements. Radio telemetry describes using radio signals, which are made up of invisible and silent <b>electromagnetic waves</b>, to determine location. A radio telemetry system is made up of three parts: a <b>radio transmitter</b>, a <b>radio antenna</b> and a <b>radio receiver</b>. The radio transmitter is worn by the animal and is the part that transmits or sends a radio signal. Scientists use the antenna to pick up on the radio signals, which are transformed by the receiver into a beeping sound. As the receiver gets closer to the transmitter, the beeps get louder, meaning the animal wearing the transmitter is close by. The researcher can then use this audible clue to locate and follow the animal wearing the transmitter. </p>
+
+<img src="radioTag1.jpg"
+	title="A Smithsonian researcher attached a radio tag to a nestling bird. She hoped to follow the bird to determine whether it survived in the period just after leaving the nest."
+	alt = "A photograph of a receiver that scientists use to find radio tagged birds" 
+	align = "right"
+	width="400px"  
+	style= "margin-top: 10px;
+    		margin-bottom: 10px;
+    		margin-right:0px;
+    		margin-left: 20px;"/>
+			
+<h3>What is the process for radio tagging a bird?</h3>			
+ 
+<p>In order to use radio tags to study birds’ movements, scientists must first capture the birds. For most smaller birds, this is done by using <b>mist nets</b> -- tall, long nets made out of very fine threads that are difficult for birds to see. Once the birds are caught, scientists place aluminum bands and a unique combination of colored plastic bands around a bird’s legs so that they can identify it after it is released (see “Bird banding”). They then strap the radio tag on the lower back of the bird using a harness that loops around the bird’s legs.</p>
+
+<p>After the radio tag has been attached to the bird, scientists can determine its location without having to actually see it, as long as it is within the range of the transmitter’s signal. Once they are close enough to the bird to pick-up the signal and hear beeps, they move the antenna around to find the direction in which the signal is strongest (when the beeps are the loudest).  The scientists can then determine the location of the bird in a couple of ways. One method, called “homing” requires the scientist to follow the bird. They move in the direction of the loudest beeps until they locate the animal. Another method, called “<b>triangulation</b>”, requires more than one researcher and some geometry. From different locations, each researcher has a separate receiver and determines the direction the signal is coming from. The scientists draw lines showing the direction of the signal from each location on a map. Where the lines intersect indicates where the animal is located.</p>
+
+<h3>What are the pros and cons of using radio telemetry?</h3>
+ 
+<img src="radioAntenna1.jpg"
+	title="A researcher uses a directional antenna to track a bird in the mangrove forests of Jamaica"
+	alt = "A photograph of a researcher tracking birds in Jamaican forests"
+	align="left"
+	width="420px"  
+	style= "margin-top: 10px;
+    		margin-bottom: 10px;
+    		margin-right:20px;
+    		margin-left: 0px;"/>
+
+<p>Radio transmitters, also called radio tags, are relatively inexpensive, usually costing less than $200 each. They also come in a variety of sizes and weights. The part of a radio tag that weighs the most is the battery that powers it. The larger and heavier the battery is, the longer the battery life, the stronger the signal it can transmit, and the farther the signal will travel. But, a transmitter should not weigh more than 5% of the animal’s body weight or else it could interfere with the animal’s ability to move around and survive. So when designing a study using radio telemetry, the researcher has to consider the size and weight of the transmitter that can be used on the bird they are studying target animal, and what that means for the battery life and signal strength. There are radio tags that are light enough to use on birds weighing as little as 6.6 grams -- just a little heavier than a nickel! Radio tags this small though will have a relatively short battery life of just a few weeks and a signal that can travel only about 0.6 miles (1 km).</p>
+
+<p>Radio tagging gives scientists a lot of information about the movement of birds. However, the scientific questions that can be answered with radio telemetry are limited because they have to be relatively close to the tagged birds to determine their location. For example, scientists can use radio telemetry to follow the movements of migratory birds during their breeding season because they stay within the same area while nesting and raising their young. But once the birds leave the breeding area to migrate, they quickly move beyond the range of the transmitter and scientists can no longer detect where they are.</p>
+
+<p>The other limitation is the size and lifespan of the battery required to power the transmitter. Because it takes a lot of power to send a radio signal even short distances, most radio tags only last from a few weeks to a few months. This means that we can only use radio telemetry to study the movement of birds during a short period of time rather than across their full annual cycle.</p>
+ 
+<p>To find out more about the use of radio telemetry to study birds and other animals, see this <a target="_blank" href=" http://www.migratoryconnectivityproject.org/vhf-radios/"> link</a>.</p>
+

@@ -1,0 +1,6 @@
+﻿<h1>Tracking technology</h1>
+<br>
+<p>
+Scientists use different types of tracking technologies to determine the location of a bird at a given point in time. Depending on the technology, they can also use this information to determine if bird is alive and how it moves through its environment. The type of technology scientists choose depends on the research question, the species of bird(s) they are studying, the cost and the type of information that each tracking technology provides.
+</p>
+<br>

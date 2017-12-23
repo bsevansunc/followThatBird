@@ -1,0 +1,156 @@
+﻿<h1>Swainson's hawk</h1>
+<br>
+
+
+<div class="row" style="margin-right: 4px;margin-left: 4px;">
+<img height="330px" align="right" src="swainsons2.jpg" alt = "Photograph of a Swainson's hawk" title="Swainson's hawk"
+	style="margin-top: 0px;
+    	margin-bottom: 10px;
+    	margin-right:0px;
+    	margin-left: 20px;"/>
+
+<p>
+The <b>Swainson's hawk</b> is a <b>raptor</b> with a thin body and narrow wings that migrates impressive distances. They weigh between 1.5 and 3 lbs (693-1367 g), have a wingspan of 46 to 54 in (117-137 cm), and are 18.9 to 22 in (48-56 cm) in length. Nearly the entire population of Swainson's hawks migrates between their breeding grounds in western North America and overwintering grounds in South America. During their journey, these hawks travel roughly 20,000 km round trip, making it one of the world's longest-distance migratory raptors.
+</p>
+</div>
+
+<hr>
+<br>
+
+<h2>Breeding</h2>
+<img height="120px" align="left" src="breedingIcon.png" alt = "Breeding grounds icon" style="border:10px solid white"/>
+
+<p>
+The Swainson's hawk breeds in the grasslands of the midwestern and western United States. They often build nests in small groves of trees that border streams and agricultural fields. A pair of Swainson's hawks will raise a <b>clutch</b> of one to five eggs, which they <b>incubate</b> for over a month before hatching. The nestling hawks are very small when they hatch and too weak to even raise their heads. The parents must care for them for a month-and-a-half before they are strong enough to leave the nest. 
+
+<img align="left" width="300px" src="swainsonsRange.gif" title="Swainson's hawk range map" alt = "A map of the winter and summer range of the Swainson's hawk" style="margin-top: 0px;
+    	margin-bottom: 10px;
+    	margin-right:20px;
+    	margin-left: 0px;"/>
+
+When they are raising their young in the summer, the hawks have a varied diet, feeding on small animals like squirrels, gophers, voles, mice, small birds, lizards, snakes, and insects. They capture their prey by perching on tree tops, poles or posts, rocks, and higher ground, and then swooping down to catch their prey by surprise. Swainson's hawks have also been observed <b>ambushing</b> prey like squirrels by waiting outside their holes for the squirrel to emerge.
+</p>
+
+
+<br>
+
+<p>
+Before leaving their breeding grounds to make the journey south, Swainson's hawks must prepare for their long trip. In late August and early September, they form flocks and begin to put on fat to fuel their upcoming journey. Having just finished raising their offspring, adults particularly need to put on more weight to survive the fall migration. Swainson's hawks will put on fat by gorging on grasshoppers until winds from the north arrive and the flocks take off and travel south.
+</p>
+
+<br>
+<h2>Migration</h2>
+<img height="120px" align="left" src="migrationIcon.png" alt = "Migration icon" style="border:10px solid white"/>
+
+<iframe src = "https://www.youtube.com/embed/onrnVSix5jI?autoplay=0&version=3&loop=1&playlist=onrnVSix5jI"
+	align="right" 
+	alt="Video of a soaring Swainson's hawk"
+	width="555"
+	height="312"	
+    	frameborder="0" 
+	gesture="media"
+	style="margin-top: 0px;
+    		margin-bottom: 10px;
+    		margin-right:0px;
+    		margin-left: 20px;"></iframe>
+
+<p>
+Once they are in flight, the flocks use winds from the north and <b>thermals</b> to help them save energy while flying. Thermals are columns of air rising right from the surface of warm patches of land. Birds use these thermals to gain height without flapping their wings as the column rises. Then, when it cools down, the birds glide down to another thermal and repeat the process. This pattern of following thermals allows the birds to use very little effort and energy. Because they rely so heavily on these thermals, Swainson's hawks typically avoid crossing water from which thermals rarely rise. This reliance on land masses to migrate means that almost the entire population of Swainson's hawks must funnel through the narrow land bridge between North and South America, often in massive flocks of hundreds of thousands of birds.
+</p>
+<br>
+
+<p>
+During their journey from North America to South America, Swainson's hawks spend little time feeding to refuel themselves. Instead, they fast for most of the time. When they do eat, they feed exclusively on insects like grasshoppers, dragonflies, butterflies and moths, and leaf beetles. They catch insects either on the ground or in midair with their talons, and can eat them while in flight.
+</p>
+<br>
+
+<h2>Overwintering</h2>
+
+<img height="120px" align="left" src="winteringIcon.png" alt = "Overwintering icon" style="border:10px solid white"/>
+
+<p>
+Swainson's hawks spend the bulk of their nonbreeding season south of the equator in South America. To say that Swainson's hawks “overwinter” in South America may be a bit inaccurate because it is summer in the Southern Hemisphere when they are there! The hawks therefore travel from summer breeding grounds in North America to summer “overwintering” grounds in South America. Their diet in this period is similar to that of migration -- they eat almost exclusively insects. During this period of time their goal is to stay as healthy as possible and, especially just before making their migration back north, to put on enough body fat to successfully migrate and raise young.
+</p>
+<br>
+
+<h2>Conserving the Swainson's hawk</h2>
+
+<p>
+Swainson's hawks cover enormous distances each year and they are vulnerable to threats throughout their journey. Threats include hunting, collisions with manmade structures, and poisoning from pesticides. They may also be threatened by habitat loss at both their breeding and wintering grounds.
+</p>
+ 
+<br>
+
+<h2>The mystery of the disappearing Swainson's hawks</h2>
+
+<p>
+Brian Woodbridge, a biologist with the US Forest Service, had been studying Swainson's hawks in Butte Valley National Grasslands in northern California for 15 years when he noticed something alarming. The population of Swainson's hawks in his study area had suddenly declined. Woodbridge and his colleagues had been monitoring Swainson's hawk populations at the site since 1979 by trapping and marking birds with unique color bands during the breeding season, re-releasing marked birds, and counting how many of these individuals returned each year after winter migration. In a typical year, about 85-90% of banded hawks would return to the breeding grounds in the spring. "But then a year would come up when nearly half failed to return," Woodbridge said of the decline. "We were seeing an abnormally high turnover rate of adult hawks."
+</p>
+
+<p>
+Woodbridge had to determine what was occurring on their wintering grounds that could cause such a massive decline. They knew the birds wintered somewhere in Argentina, but did not know precisely where. So in the winter of 1994 to 1995, scientists attached satellite transmitters to 50 Swainson's hawks, including two from the Butte Valley site. Signals from these transmitters were sent to National Oceanic and Atmospheric Administration Argos satellites and then relayed back via the internet where they could be accessed by Woodbridge and his team.
+</p>
+
+<br>
+
+<style>
+	ol {
+		font-size: 24px;
+		list-style-position: inside;
+		background: #f1f1f1;
+		padding: 20px;
+		
+	}
+</style>
+
+
+<ol>
+<h3><b>Investigate with Swainson's hawk tracking data:</b></h3>
+<br>
+<li>Navigate to the tracking map by selecting  “tracking map” from the “Tracking data” dropdown in the menu bar above.</li><br>
+<li>Select Swainson’s hawk from the “Bird species” dropdown menu. Zoom into their wintering location. The menu on the upper right corner of the map window provides different map views. Explore the map views by clicking on the menu items. Where does the Swainson's hawk overwinter?</li><br>
+<li>Click "Biomes" on the upper right hand corner of the map. In what type of habitat do Swainson's hawk overwinter?</li><br>
+<li>Click "Agriculture" to turn on the agriculture map layer. What do you notice about the agricultural intensity of the areas that the Swainson's hawk spends their winter?</li><br>
+<li>Given this information, what do you think could be causing the sudden decline that Woodbridge and his team was observing?</li>
+</ol>
+
+<hr>
+<br>
+
+<button onclick="myFunction()">Click this button to learn what happened!</button>
+
+<div id="mystery" style="display:none;">
+<br>
+<p>
+The data showed that the hawks were wintering in grassland and agricultural sites the Pampas region of Argentina. These vast plains were the perfect spot for the hawks to fatten up on their preferred winter snack, grasshoppers, which make up about 95% of their diet in the winter. But when Woodbridge made a trip down to the Pampas to investigate, he made a disturbing discovery: approximately 6,000 dead Swainson's hawks. 700 of those were on just one farm alone. The culprit was a pesticide that had been banned in the US but was still in use in Argentina. Farmers were spraying this pesticide to control grasshoppers that were considered an agricultural pest. Those grasshoppers were in turn being eaten by the hawks, poisoning them.
+</p>
+
+<p>
+This mass die-off sparked a massive public outcry and mobilized numerous organizations to help protect these hawks. World governments, farmers, conservation groups, and even pesticide manufacturing companies, teamed up to remove the pesticide from the Pampas. The Argentine government banned the pesticide from being used on alfalfa fields where the hawks tended to congregate. The chemical companies that manufactured the pesticide agreed to stop selling the chemical in the region and recommended less harmful alternatives for farmers. Conservation and government organizations placed TV and radio ads to get the word out about the new regulations. Researchers also shared information with Argentine scientists so that they could better report and diagnose similar problems in the future. The data from the satellite tagged birds helped determine where the regulation efforts should be concentrated. The following year, only 24 hawk deaths were reported in the area. A potential crisis for Swainson's hawk populations had been averted.
+</p>
+</div>
+
+<script>
+function myFunction() {
+    var x = document.getElementById("mystery");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+</script>
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+

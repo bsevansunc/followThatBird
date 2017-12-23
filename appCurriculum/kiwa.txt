@@ -1,0 +1,78 @@
+﻿<h1>Kirtland's warbler</h1>
+<br>
+
+<div class="row" style="margin-right: 4px;margin-left: 4px;">
+<iframe src = "https://www.youtube.com/embed/UDh_ueyJIwE?autoplay=0&version=3&loop=1&playlist=UDh_ueyJIwE"
+	align="right" 
+	alt="Video of a male Kirtland's warbler singing from a tree"
+	width="555"
+	height="312"	
+    	frameborder="0" 
+	gesture="media"
+	style="margin-top: 10px;
+    		margin-bottom: 10px;
+    		margin-right:0px;
+    		margin-left: 20px;"></iframe>
+
+<p>
+The <b>Kirtland's warbler</b> is an endangered species of bird that nearly went extinct. In fact, in 1987 there were only 167 singing male birds left!! Because of an intensive management effort, the Kirtland's warbler population has increased but much work needs to be done to guarantee the survival of the species. The population size of the Kirtland's warbler depends on whether the birds are able to reproduce (reproductive success). It also depends on survival of individual birds during the breeding season, winter, and migration.
+</p>
+</div>
+
+<hr>
+<br>
+
+<h2>Breeding</h2>
+
+<img height="120px" align="left" src="breedingIcon.png" alt = "Breeding grounds icon" style="border:10px solid white"/>
+    
+<p>
+Kirtland's warblers are really picky birds. Each spring they migrate from the Caribbean to large, dense clusters of young jack pine trees in Michigan, Wisconsin, and Ontario. They will only build nests in <b>pine stands</b> that are between 5 and 15 years old. In the past, older pine stands would be destroyed by fire, making way for younger seedlings to grow. If there is too much fire, the pine stands will be too young for good warbler habitat. If there is too little fire, the pine stands will be too old for good warbler habitat. However, forest management techniques in the recent past have prevented these fires from regenerating jack pine stands, resulting in a lot of older trees.
+</p>
+
+<p>
+To help prevent the extinction of Kirtland's warblers, wildlife managers in northern Michigan have selectively cut jack pine stands, ensuring that there are plenty of acres of young jack pine for the Kirtland's warblers to breed. While these birds are still limited by the lack of fire in pine forests, jack pine management has helped the species grow in numbers. The reproductive success of Kirtland's warblers is made difficult by a species of bird called the brown-headed cowbird. Cowbirds are a “<b>brood</b> parasite”, which means they lay their eggs in other species' nests. When just a single cowbird egg is laid in a Kirtland's warbler nest, the warbler will not be able to raise even one successful chick of its own because the cowbird chick will push the warbler chicks out of the nest or take all the food. Because of this, cowbirds are considered to be the most important reason for the Kirtland's warbler decline. Efforts to manage (decrease) the number of cowbirds have been successful at reducing rates of <b>brood</b> parasitism and played a key role in the recovery of the Kirtland's warbler.
+</p>
+<br>
+
+<h2>Overwintering</h2>
+
+<img height="120px" align="left" src="winteringIcon.png" alt = "Overwintering icon" style="border:10px solid white"/>
+
+<p>
+Using light-level geolocator technology, scientists have traced the entire wintering population of Kirtland's warblers to a small region in the Caribbean Sea - the Bahamas, and Turks and Caicos Islands. These islands provide important <b>scrub habitat</b> that the warblers need to survive. Scrub habitat includes bushes and shrubs and very few trees. Scrub habitats on these islands are made by extreme weather events, such as hurricanes. Strong winds from these storms limit the growth of trees and allow shrubs and bushes to thrive. Unfortunately, the amount of good scrub habitat has been reduced by the increase in human development, like buildings and roads. In some areas a unique management plan to improve scrub habitat has been suggested - to introduce goats to the region. Because goats eat just about anything, it is expected that they will help maintain scrub habitat, giving the Kirtland's warblers an ideal place to winter.
+</p>
+<br>
+
+<h2>Migration</h2>
+<img height="120px" align="left" src="migrationIcon.png" alt = "Migration icon" style="border:10px solid white"/>
+
+<img src="kiwa.jpg"
+	title="Kirtland's warbler"
+	alt = "A photograph of Kirtland's warbler sitting on a branch."
+	align="right"
+	width="450px"  
+	style= "margin-top: 10px;
+    		margin-bottom: 10px;
+    		margin-right:0px;
+    		margin-left: 20px;"/>
+
+<p>
+Kirtland's warblers are too small to carry GPS tags. They weigh only about 0.5 ounces (14 g), have a wingspan of 7.5 inches (19 cm), and are 5.5 to 5.9 in (14-15 cm) in length. Little is known about the threats they face during their spring and fall migrations. Rates of return of banded birds have shown that nearly half of the population (44%) is killed during migration. Recoveries of other migratory birds, including other species of warbler, provide clues to threats Kirtland's may face while migrating. By far, the most dangerous menace migratory birds face is predators - most importantly, the domestic cat. Aside from habitat loss, free-roaming cats, whether those that owners let outside or feral stray cats, are the number one cause of bird deaths. It is thought that every year over a billion birds are killed by free-roaming cats. Reducing the number of outdoor cats would greatly increase the chances that songbirds will successfully migrate.
+</p>
+
+<p>
+Another hazard for birds on migration is large man-made structures such as wind turbines and the windows of buildings. Millions of migrating birds die every year from hitting these structures while on their way south and north. One way that we can help reduce the number of birds that are killed by buildings is to use what's called “bird-safe” glass. Bird-safe glass has embedded patterns that birds can see that lets them know there's something there that they need to fly around.
+</p>
+
+<p>
+Buildings can also pose an additional threat: light pollution. Lights at night can confuse birds and many migrating birds will circle artificial lights to the point of exhaustion and even death. A push to reduce light pollution by turning off or blocking lights in tall buildings at night during peak migration has been successful at  reducing this threat, but much more needs to be done.
+</p>
+<br>
+<hr>
+
+<p>
+Clearly the Kirtland's warbler is a species of bird that needs a lot of help from people to survive. Take a moment to think about how people have contributed to the species' decline. What steps would you take to help this picky bird avoid extinction?
+</p>
+
+<p>Click on <a target="_blank" href= "https://codap.concord.org/releases/latest/static/dg/en/cert/index.html#shared=27129">this link</a> to explore how the environment influences Kirtland's warbler populations.</p>

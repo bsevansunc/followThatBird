@@ -1,0 +1,88 @@
+﻿<h1>Black-bellied plover</h1>
+<br>
+
+<img src="blackBelliedPlover.jpg"
+	title="Black-bellied plover"
+	alt = "Photograph of a black-bellied plover" 
+	align="right" 
+	height="330px" 
+	style= "margin-top: 0px;
+    		margin-bottom: 10px;
+    		margin-right:0px;
+    		margin-left: 20px;"/>
+
+<p>The <b>black-bellied plover</b> is a large shorebird with a short neck and distinctive black belly and face. They weigh between 5.6 and 9.8 oz (160-277 g), have a wingspan of about 2 ft (60 cm) and are about 11 in (28 cm) in length. This species is remarkable for its amazing migrations. The North American population breeds in the high arctic and spends its winters on the coasts of southern Canada, the United States, Mexico, and Cental and South America. They are also known for being cautious and screaming out loud alarm calls that alert the bird community of danger. Because these plovers are so alert, their populations were not heavily impacted by the hunting of shorebirds in the late 1800s and early 1900s, which wiped out many shorebird populations.</p>
+<hr>
+<br>
+
+<h2>Breeding</h2>
+<img height="120px" align="left" src="breedingIcon.png" alt = "Breeding grounds icon" style="border:10px solid white"/>
+
+<p>North American black-bellied plovers spend their summer breeding seasons in the Arctic tundra of Canada and Alaska. This region is covered with ice and snow much of the year. There is also a frozen layer of soil and dead plant matter called <b>permafrost</b> that lies just below the surface of the ground. Because of these harsh conditions, there are very few trees where the plovers breed. The land is covered with a carpet of low vegetation and <b>lichen</b>. Large shallow pools of water develop on the ground surface every summer due to the melting of surface ice and snow. 
+
+<img src="tundra.jpg" 
+	title="The Arctic tundra" 
+	alt = "A photograph of the Arctic tundra" 
+	align="left"
+	width="420px" 
+	style="margin-top: 10px;
+	margin-bottom: 10px;
+    	margin-right: 20px;
+    	margin-left: 0px;"/>
+
+This standing water is an excellent place for insects to breed and summer skies are filled with giant swarms of insects. These insects are the basis of the plover diet and provide the protein necessary for them to raise their young.</p>
+</p>
+
+<p>Black-bellied plovers build nests directly on the ground, by scraping a shallow hole into the ground and filling it with pebbles and soft lichens. They will usually lay four eggs in the nest, with both parents taking turns <b>incubating</b> the eggs while the other hunts for insects. The eggs will hatch in just under a month, with the young nestlings covered with soft, downy feathers. Within a day of hatching, the chicks are able to hunt by themselves on the ground around the nest. The parents will care for and protect their young from predators for the first few weeks after hatching. The female parent will leave the nest site after two weeks. In a little over a month, the adult male will leave the nest site and the chicks are able to fly. The young and adults will spend the remainder of the season putting on weight in preparation for migration, gaining as much as one-third to one-half of their body weight to make their long journey.</p>
+
+<img src="ploverRange.gif"
+	title="Black-bellied plover range map"
+	alt = "A map of the winter and summer range of the black-bellied plover" 
+	align="right"
+	width="300px"  
+	style= "margin-top: 10px;
+    		margin-bottom: 10px;
+    		margin-right:0px;
+    		margin-left: 20px;"/>
+
+<br>
+<h2>Migration</h2>
+
+<img height="120px" align="left" src="migrationIcon.png" alt = "Migration icon" style="border:10px solid white"/>
+
+<p>Black-bellied plovers leave their wintering grounds in late April, arrive on their breeding grounds in May and June, and begin their fall migration in late July. It is believed that individuals will travel the same route during their spring and fall migrations. The plovers use a wide variety of routes and strategies during migration. They will fly above water and land while migrating. They tend to cover relatively short distances over land, but they often travel very long distances over water. Some birds utilize stopover sites, which are areas where they will stop to eat and rest. One area where they are known to stop is along the Saint Lawrence River, which is a major stopover location for a wide variety of migratory birds in southern Quebec. When traveling over the water, the plovers can fly incredibly far. Using satellite tracking data, a group of scientists working with the Canadian Wildlife Service observed one black-bellied plover traveled from Newfoundland, in Canada, all the way to the coast of Brazil in a single flight.</p>
+
+<br>
+
+<h2>Overwintering</h2>
+
+<img height="120px" align="left" src="winteringIcon.png" alt = "Overwintering icon" style="border:10px solid white"/>
+
+<iframe src = "https://www.youtube.com/embed/MueN0DgFuXw?autoplay=0&version=3&loop=1&playlist=MueN0DgFuXw"
+	align="right" 
+	alt="Video of foraging black-bellied plover"
+	width="555"
+	height="312"	
+    	frameborder="0" 
+	gesture="media"
+	style="margin-top: 0px;
+    		margin-bottom: 10px;
+    		margin-right:0px;
+    		margin-left: 20px;"></iframe>
+
+
+<p>Black-bellied plovers spend their winters on temperate, tropical, and subtropical coastlines across much of the world. North American populations tend to gather in flocks along sandy coastal beaches, tidal creeks, and <b>estuaries</b> in North and South America. In the tropics and subtropics they often roost at night in <b>mangrove forests</b> – this is an important habitat for a huge diversity of species (<a target="_blank" href= "http://ocean.si.edu/mangroves">Read about mangroves here!</a>).</p>
+ 
+<p>Living on the coast provides a rich diet that is very different than during the breeding season. Coastal plovers will eat from a marine buffet of polychaetes (marine worms), bivalves (like clams and mussels), snails, shrimp, and crabs. They search for food mostly by site and can be seen walking or running along the beach in search of their prey. The search for food will intensify in April, as they work to gain as much weight as possible for their migration back to the Arctic.</p>
+
+<br>
+
+<p>To learn more about the black-bellied plover, check out the following links:</p>
+
+<p><a target="_blank" href= "https://www.allaboutbirds.org/guide/Black-bellied_Plover/id">All About Birds</a></p>
+<p><a target="_blank" href="http://www.audubon.org/field-guide/bird/black-bellied-plover">Audubon</a></p>
+<p><a target="_blank" href="http://www.ccbbirds.org/2016/07/07/black-bellied-plovers-complete-annual-cycle/">Black-bellied plovers complete annual cycle</a></p>
+<p><a target="_blank" href="https://ebird.org/ebird/map/bkbplo?neg=true&env.minX=&env.minY=&env.maxX=&env.maxY=&zh=false&gp=false&ev=Z&mr=1-12&bmo=1&emo=12&yr=all">Interactive distribution map (eBird)</a></p>
+
+
+

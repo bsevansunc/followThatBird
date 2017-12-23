@@ -1,0 +1,46 @@
+﻿<h1>Light-level geolocators</h1>
+<hr>
+
+<img src="sunsetDc.jpg" 
+	title="The sun sets at different times in Washington, DC, shown here, than it does over New York City."
+	alt = "A photograph of sunset over the Washington Monument" 
+	align="right" 
+	width="500px" 
+	style= "margin-top: 10px;
+    		margin-bottom: 10px;
+    		margin-right: 20px;
+    		margin-left: 0px;"/>
+ 
+<p>What time does the sun rise where you live? You probably know that the sun rises and sets at different times throughout the year. Did you know that it rises and sets at different times across the globe as well? For example, the sun rises at about 5:24 am and sets at about 8:36 pm in New York City on the summer solstice. In Washington, DC, a city that is a little over 200 miles (330 km) from New York, the sun rises at 5:43 am and sets at 8:36 pm on the same date. This is because the Earth is tilted on its axis. Using the day of the year and our planet’s tilt and speed of turning, scientists can predict the sunrise and sunset time at any location on Earth. To explore the sunrise and sunset times where you live, check out this <a target="_blank" href = "https://www.esrl.noaa.gov/gmd/grad/solcalc/"> link</a>. </p>
+ 
+<p>Just as scientists can determine the sunrise and sunset time based off a location on the Earth, they can also do the opposite and use sunrise and sunset times to predict a location. <b>Light-level geolocators</b> are tracking devices that use daylight to estimate an approximate location. They are made up of a light sensor, an internal clock, a battery, and a computer that stores the amount of light the sensor is exposed to. Recording light-levels does not require a lot of electricity – so batteries for these devices can be very small and last a very long time (more than one year). Because of this, these devices are incredibly light, with a minimum weight of just 0.3 grams, and can be placed on any bird that weighs more than 7 grams.  </p>
+
+<img src="woodThrushGeolocator.jpg" 
+	title="A wood thrush carrying a geolocator. Notice the clear bar sticking up from the back of the wood thrush. This bar is where the tag receives light."
+	alt = "A photograph of a wood thrush carrying a geolocator." 
+	align="right" 
+	width="400px" 
+	style= "margin-top: 10px;
+    		margin-bottom: 10px;
+    		margin-right: 0px;
+    		margin-left: 20px;"/>
+ 
+<p>When scientist use light-level geolocators to study birds’ movements, they need to travel to the locations where they can find the birds they are studying (where the birds breed in the summer or spend their winters). They capture birds in <b>mist nets</b> -- tall, long nets made out of very fine threads that are difficult for birds to see. Once caught, they place an aluminum band and a unique combination of colored plastic bands around a bird’s legs so that they can identify captured individuals (See “Bird banding”). Scientists then carefully position the tiny light-level geolocator on the lower back of the bird using a harness that loops around the bird’s legs. Once the device is firmly attached, they release the bird and let the light-level geolocator start collecting data.  A year later, the scientist will  return to this location and attempt to re-capture the same bird so that they can find out where it traveled to. Recapturing the bird is a challenging task and only about one in every five birds scientists tag are captured again the next year. If recaught, the device is removed and attached to a computer where they can download the data and estimate where the bird went.</p>
+  
+<p>Because it is lightweight and has a long battery life, light-level geolocators are a great option for scientists who study the long distance movements of migratory birds. And, in many cases, light-level geolocators may be the <em>only</em> option for studying the movements of small migratory bird species. Other options are often too heavy or the batteries don’t last long enough. Also, because they cost less than $200, they are cost effective, meaning they are a low price for how well they work.</p>
+
+<img src="KIWA-map.jpg"
+	title="This map shows estimates of Kirtland's warbler locations, obtained using a light-level geolocator."
+	alt = "An image of a map of Kirtland's warbler locations, obtained using a light-level geolocator." 
+	align="right" 
+	width="300px" 
+	style= "margin-top: 10px;
+    		margin-bottom: 10px;
+    		margin-right: 20px;
+    		margin-left: 0px;"/>
+ 
+<p>Even though light-level geolocators have a lot of pros, they also have some cons. For example, the cost for one device is low but because only one in five birds wearing the tags is recaptured, the total cost can be much higher. That means scientists will spend money on devices that they will never see again or be able to collect information from. Also the location accuracy of these devices is not very specific. This means that scientists can only get a general idea of where the tagged birds traveled. For example, they could learn that a bird spends its winters in southern Florida, but would not be able to learn the exact city or town in Florida. Finally, because birds spend a lot of time under the shade of the <b>tree canopy</b>, it can be difficult to determine what the sunrise and sunset times were at that location.</p>
+
+<br>
+ 
+<p>Want to learn more about light-level geolocators? Check out this <a target="_blank" href="http://www.migratoryconnectivityproject.org/geolocators/"> link</a>.</p>

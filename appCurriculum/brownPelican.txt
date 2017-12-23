@@ -1,0 +1,164 @@
+﻿<h1>Brown pelican</h1>
+<br>
+
+<img src="brownPelican.jpg"
+	title="Brown pelican"
+	alt = "Photograph of a brown pelican" 
+	align="right" 
+	height="330px" 
+	style= "margin-top: 10px;
+    		margin-bottom: 10px;
+    		margin-right:0px;
+    		margin-left: 20px;"/>
+
+<p>
+The <b>brown pelican</b> is a large and unique bird that lives on coastlines and small islands in colonies that can contain thousands of individuals. This species is common on coastlines of the southern and western United States, the Caribbean, and parts of Mexico, Central America, and northern South America. They have a wingspan of about 6.5 feet (200 cm) and weigh up to 11 pounds (5000 g). The comical-looking pelican is graceful in flight and can be seen flying in groups just above the water’s surface or drying out their feathers on a post by the water’s edge. Brown pelicans make incredible headfirst plunges into the water while hunting fish, which they will catch in a deep pouch located under their bill. If they are successful in their hunt, they will carry the prey away in their pouch, let the water drain out for a few minutes, then tilt their head back and swallow the fish whole.  
+</p>
+
+<br>
+
+<h2>The brown pelican: A conservation success story</h2>
+
+<img src="decorativeHat.jpg" 
+	title="A 20th century hat decorated with bird feathers"
+	alt = "A painting of a woman wearing a 20th century hat decorated with bird feathers" 
+	align="left" 
+	width="300px"
+	style= "margin-top: 10px;
+		margin-bottom: 10px;
+    		margin-right: 20px;
+    		margin-left: 0px;"/>
+
+
+<p>
+The 20th century was a tough time to be a pelican. At the turn of the century, it became fashionable to decorate women's hats and jackets with bird feathers and thousands of pelicans were killed for this purpose. During World War I, pelicans were shot by fisherman, who blamed them for reducing fish resources. Luckily, the practice of intentionally killing migratory birds became illegal in 1918 with the passage of the Migratory Bird Treaty Act. In the mid and late-1900s, a pesticide called DDT which was used to control mosquitoes had an unintentional effect that almost drove the species to extinction. DDT caused pelican eggshells to be very thin. This led to low rates of nest success and populations of pelicans, as well as many other species, were wiped out.
+</p>
+
+<p> 
+Luckily, steps were taken to preserve this species and the brown pelican now represents a major <b>conservation</b> success story. In 1970, the United States government listed the brown pelican as a protected endangered species. This status protects the pelican from being directly or indirectly impacted by humans. In 1972, the United States Environmental Protection Agency banned the use of DDT. Since that point, populations of pelicans have recovered and expanded. They have been so successful that they were taken off the list of endangered species in 2009.
+</p>
+
+<hr>
+<br>
+
+<h2>Breeding</h2>
+<img height="120px" align="left" src="breedingIcon.png" alt = "Breeding grounds icon" style="border:10px solid white"/>
+
+
+<img src="earthImage.jpg"
+	title="Diagram of the globe showing latitude"
+	alt = "A diagram of the globe showing latitude" 
+	align="right"
+	width="300px"  
+	style= "margin-top: 10px;
+    		margin-bottom: 10px;
+    		margin-right:0px;
+    		margin-left: 20px;"/>
+
+
+<p>
+Unlike other birds that we are studying in these lessons, the breeding season of the brown pelican is not exclusively in late spring or during the summer. The time of year that pelicans breed depends on where they live. Specifically, time of breeding is dependent on latitude, which is the distance of a location from the Earth’s equator. Latitude is defined as the angle from the center of the Earth, starting at a latitude of 0 degrees at the equator and increasing to up to 90 degrees at the North or South Pole. 
+
+<img src="brownPelicanRange.gif"
+	title="Brown pelican range map"
+	alt = "A map of the winter and summer range of the Brown pelican" 
+	align="left"
+	width="300px"  
+	style= "margin-top: 10px;
+    		margin-bottom: 10px;
+    		margin-right:20px;
+    		margin-left: 0px;"/>
+
+Regions of the Earth that are far from the equator have a great degree of variability in temperature across the seasons while those that are close to the equator are consistently warm throughout the year. At latitudes between the equator and about 20 degrees, pelicans experience little change in temperature across the year. When pelicans breed in these locations is dependent on food supply. At latitudes between 20 and 30 degrees, pelicans breed in the winter and early spring, when temperatures are moderate and there is plenty of food available. Above 30 degrees latitude, breeding occurs between April and September to avoid the freezing temperatures in winter.</p>
+
+
+<p>
+Breeding begins when the male pelican chooses a nest site. He then begins a courtship dance at the nest to advertise to a potential mate. When a female chooses him, they will begin to build a nest together, with the female doing most of the construction and the male bringing sticks. A <b>clutch</b> of two to four eggs is laid in the nest. Both parents will take turns sitting on the eggs to <b>incubate</b> them. Newly hatched young are born without feathers and helpless without their parents’ care. 
+
+<iframe src = "https://www.youtube.com/embed/WTcTarxrT8s?autoplay=0&version=3&loop=1&playlist=WTcTarxrT8s"
+	align="right" 
+	alt="Video of pelican courtship dance"
+	width="555"
+	height="312"	
+    	frameborder="0" 
+	gesture="media"
+	style="margin-top: 10px;
+    		margin-bottom: 10px;
+    		margin-right: 0px;
+    		margin-left: 20px;"></iframe>
+
+
+At least one parent will stay with the young at all times for the first month to month-and-a-half. The parents will take turns feeding them, initially by regurgitating small and well-digested fish onto the floor of the nest for the nestlings to eat. As the nestlings grow, they will begin feeding on whole fish by reaching their heads into the pouch at the bottom of the parent’s bill. The length of time the young will stay in the nest varies with latitude, but they generally leave the nest within two-to-three months.
+</p>
+
+<br>
+<h2>Overwintering</h2>
+
+<img height="120px" align="left" src="winteringIcon.png" alt = "Overwintering icon" style="border:10px solid white"/>
+
+<p>
+Most members of a brown pelican colony will spend the winters in the same location as they breed (see below). During the nonbreeding period, their diet and behavior are similar to that of the breeding period.
+</p>
+
+
+<br>
+
+<h2>Migration</h2>
+
+<img height="120px" align="left" src="migrationIcon.png" alt = "Migration icon" style="border:10px solid white"/>
+
+<img src="brownPelicanAL.jpg" 
+	title="Smithsonian Migratory Bird Center Research Scientist Autumn-Lynn Harrison holds a Brown Pelican"
+	alt = "A photograph of Smithsonian Migratory Bird Center Research Scientist Autumn-Lynn Harrison holding a Brown pelican" 
+	align="right" 
+	width="460px"
+	style= "margin-top: 10px;
+		margin-bottom: 10px;
+    		margin-right: 0px;
+    		margin-left: 20px;"/>
+
+<p>
+While most brown pelicans are resident birds, meaning they stay in the same area all year, some migrate.  This raises a mysterious question – why would some members of a colony migrate while others do not?</p>
+
+<p>
+Through recent advances in tracking technology, scientists have begun to study the movement of migratory and resident pelicans within a colony. Dr. Juliet Lamb, a scientist who researches brown pelicans, used satellite tracking data to study their movements in the Gulf of Mexico. She found that pelican colonies can be made up of residents, short-distance migrants, and those that migrate long distances. Comparing her tracking data with measurement data, she found that smaller birds and individuals from larger colonies are more likely to migrate.
+</p>
+
+<p>
+As tracking technology is employed in different regions and on more individuals, we will gain a greater understanding of this species. In the summer of 2017, Smithsonian Migratory Bird Center scientist Dr. Autumn-Lynn Harrison attached satellite tags to a colony of brown pelicans in the Chesapeake Bay region. She hopes to use the tracking data she collects to better understand how populations of the pelicans are expanding, the timing of migration, and the ecology of the Chesapeake Bay.
+</p>
+
+<br>
+
+<h2>Conservation threats</h2>
+
+<img src="albatrossPlastic.jpg" 
+	title="This seabird called an Albatross had a lot of plastic in its stomach."
+	alt = "A photograph of an albatross carcass with a lot of plastic garbage." 
+	align="left" 
+	width="480px"
+	style= "margin-top: 10px;
+		margin-bottom: 10px;
+    		margin-right: 20px;
+    		margin-left: 0px;"/>
+
+
+<p>
+Despite the recovery of the brown pelican, humans still impact their populations in a number of ways. The primary threat the pelicans currently face is pollution. The feathers of a pelican provide a measure of waterproofing that is necessary for diving birds. Oil spills from offshore drilling operations and pipelines can cause their feathers to absorb water, which can lead to drowning or hypothermia. In the Deepwater Horizon oil spill in 2010, it is estimated that a total of 82,000 birds were killed and 1 out of every 10 Brown pelicans in the Gulf of Mexico were killed. Plastics garbage is also a major threat to pelicans and other shorebirds. Plastics can take hundreds of years to decompose and have built up in the Earth's oceans (See 
+
+<a target="_blank" href= "https://www.nationalgeographic.org/encyclopedia/great-pacific-garbage-patch/">this link</a> 
+to learn about the Great Pacific Garbage Patch). Toxic chemicals in plastics can be harmful to birds. Birds can also be strangled by strips of plastic. In addition, birds often mistake plastic items for food and their stomachs can become so filled with plastic items that they die from starvation. In a 2015 study, it was found that 9 out of every 10 seabirds have plastic in their stomachs. Limiting our use of plastic products whenever possible, and reusing and recycling any plastics we do use, is necessary to fight this problem.
+</p>
+
+<br>
+
+<p>Want to learn more about the brown pelican? Check out these links:</p>
+
+<p><a target="_blank" href= "https://nationalzoo.si.edu/migratory-birds/news/where-do-you-go-brown-pelican">Dr. Harrison's Migratory Bird Center Expedition blog</a></p>
+
+<p><a target="_blank" href= "https://projectpelican.weebly.com/">Project pelican</a></p>
+<p><a target="_blank" href= "https://nationalzoo.si.edu/animals/brown-pelican">National Zoo</a></p>
+<p><a target="_blank" href= "https://www.allaboutbirds.org/guide/Brown_Pelican/id">All About Birds</a></p>
+<p><a target="_blank" href="http://www.audubon.org/field-guide/bird/brown-pelican">Audubon</a></p>
+<p><a target="_blank" href="https://ebird.org/ebird/map/brnpel?neg=true&env.minX=115.45457296495454&env.minY=-26.884149602304557&env.maxX=92.95457296495454&env.maxY=74.96472346418413&zh=true&gp=false&ev=Z&mr=1-12&bmo=1&emo=12&yr=all&byr=1900&eyr=2017">Interactive distribution map (eBird)</a></p>
+

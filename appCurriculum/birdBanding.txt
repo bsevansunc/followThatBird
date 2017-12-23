@@ -1,0 +1,93 @@
+﻿<h1>Bird banding</h1>
+<hr>
+<h3>What is bird banding?</h3>
+
+<img src="catbirdBanded.jpg" 
+	title="A banded gray catbird"
+	alt = "A photograph of a gray catbird in a bird banders hand. The catbird has aluminum and colored bands around its legs" 
+	align="right" 
+	width="380px" 
+	style= "margin-top: 0px;
+    		margin-bottom: 10px;
+    		margin-right:0px;
+    		margin-left: 20px;"/>
+
+<p>
+With training, it is often easy to identify different species of birds. But it is difficult, if not impossible, to tell individual birds of the same species apart unless they are marked in some way. That's where a technique called bird banding comes in. In order to identify and keep track of individual birds, scientists put aluminum or colored bands on the birds' legs. Similar to the license plate on a car, each aluminum band is engraved with a unique set of numbers that will never be re-used.
+</p>
+
+<p>
+Bird banding is one of the oldest and most important techniques used for studying and identifying individual birds. In the early 1800s, John James Audubon tied threads to birds' legs to identify individuals that were visiting his farm. In 1902, the first scientific study using bird banding took place in the United States – Smithsonian scientists attached bands to the legs of black-crowned night-herons at the Smithsonian's National Zoological Park in Washington, DC.
+</p>
+
+<h3>What is the process for banding a bird?</h3>
+
+<p>
+Bird banding is regulated by the federal governments of many countries. In the US, the Bird Banding Laboratory (BBL) of the United States Geological Survey provides scientists with aluminum bands and keeps records on all banded birds. Scientists must apply to receive bands from the BBL. They are required to show proof of their skill in safely handling birds, explain why they need to band birds as part of their research, and provide information on where the research will take place. Every bird that is given a tracking device such as a <b>light-level geolocator</b> or <b>satellite transmitter</b> must also be banded.
+</p>
+
+<img src="beccaExtraction.jpg" 
+	title="Removing a bird from a mist net"
+	alt = "A photograph of a Smithsonian Migratory Bird Center technician removing a bird from a mist net" 
+	align="left" 
+	width="400px" 
+	style= "margin-top: 0px;
+    		margin-bottom: 10px;
+    		margin-right:20px;
+    		margin-left: 0px;"/>
+
+<p>
+Before a bird can be banded it must be caught. For smaller birds, capturing usually involves using <b>mist nets</b> – tall, long nets made out of very fine threads that are difficult for birds to see. Mist nets are stretched between two poles that are usually placed in the ground but can also be placed in the <b>canopies of trees</b>. Birds caught in the nets are carefully removed by highly trained scientists. The scientist will record information about each bird, such as its species, sex, and age, and take measurements, such as its weight and the length of its wings. These measurements may indicate how healthy a bird is. Before letting it go, the scientist puts a uniquely numbered aluminum band, and sometimes also colored plastic bands, on the bird's legs.
+</p>
+
+<p>When a banded bird is caught again in the future, researchers gain important information about that bird's life, such as how far it travels and how long it lives. The band numbers of re-caught birds are always reported to the BBL, which saves the information on where and when each bird is re-caught and also sends it to the original bander. </p>    
+
+<p>Unfortunately, the chances that a banded bird will be seen or caught again are small. The chance of encountering a bird is high within a season but decreases with time since banding. In most studies, less than one in five banded birds are encountered again between seasons. These chances get increasingly smaller the farther birds travel from the location where they were banded. Because the chances of encountering a banded bird again can be low, banding data is of limited use when it comes to tracking migratory birds throughout their <b>annual cycle</b>. Despite these limitations, banding can be a very useful tool for studying non-migratory birds or birds on their wintering or breeding territory.</p>
+
+<h3>Why would a researcher use colored bands in addition to the numbered aluminum ones?</h3>
+
+
+<img src="bandingKit.jpg" 
+	title="Bird banding kit"
+	alt = "A photograph of a bird banding kit, including colored bands, aluminum bands, and a wing rule." 
+	align="right" 
+	width="340px" 
+	style= "margin-top: 0px;
+    		margin-bottom: 10px;
+    		margin-right: 0px;
+    		margin-left: 20px;"/>
+
+
+<p>
+Colored bands make it possible for researchers to tell individual birds apart by sight without having to recapture them and read the aluminum band number. Because of this, color-banded birds are more easily identified than birds with only an aluminum band. In a study using color bands, each individual bird will get a unique combination of colored plastic bands, such as a red band over a green band on one leg, and a purple band over the aluminum one on the other. 
+</p>
+
+<p>
+When a color-banded bird is re-sighted, scientists can use the time and location that the bird was seen to gain valuable information. Identifying the bird one or more times gives an indication of how long it survives. Observations of the color-banded bird at locations outside of the banding site can indicate the distance that the bird moves during or between seasons.
+</p>
+
+<p>
+A challenge to color banding is that it takes considerable time and effort to search for and identify the banded birds. While the likelihood of re-sighting color-banded birds that stay near the banding location are high, the farther the bird travels the less likely it will be detected again.  This makes color-banding birds a great tool for answering questions about birds that will stay in a certain area throughout a study, but it is of very limited value when researching birds that travel greater distances.
+</p>
+
+<p>
+Color bands are inexpensive, usually costing less than $1.00 per bird. They are also very lightweight so they can be worn by all but the smallest of bird species.
+</p>
+
+<p>To learn more on the use of bird banding to study birds, check out this video from Point Blue in California: </p>
+<br>
+<div style="padding-bottom: 600px;">
+<iframe src = "https://www.youtube.com/embed/8nVXgGhQNXM?autoplay=0&version=3"
+	align="left" 
+	alt="Bird-banding at Point Blue in California"
+	width="1025"
+	height="576"	
+    	frameborder="0" 
+	gesture="media"
+	style="margin-top: 10px;
+    		margin-bottom: 10px;
+    		margin-right:0px;
+    		margin-left: 0px;"></iframe>
+</div>
+
+

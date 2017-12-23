@@ -1,0 +1,55 @@
+﻿<h1>Long-billed curlew</h1>
+<br>
+
+<div class="row" style="margin-right: 4px;margin-left: 4px;">
+<img align="left" height="300px" align="left" src="lbCurlew.jpg" alt = "Photo of a long-billed curlew." style="margin-top: 0px;
+    margin-bottom: 5px;
+    margin-right: 20px;
+    margin-left: 0px;"/>
+
+<p>The <b>long-billed curlew</b> is North America's largest shorebird. They breed in the grasslands of the Great Plains and the Great Basin. They weigh between 1 to 2 lbs (490-950 g), have a wingspan of 24.4 to 35 in (62-89 cm), and are around 2 ft (61 cm) tall. Their signature long, curved bill likely evolved to allow them to eat burrowing crabs and shrimp on their overwintering grounds.</p>
+<br>
+</div>
+
+<hr>
+
+<h2>Breeding</h2>
+<img height="120px" align="left" src="breedingIcon.png" alt = "Breeding grounds icon" style="border:10px solid white"/>
+
+<img align="right" width="320px" src="longBilledCurlewRange.gif" title="Long-billed curlew range map" alt = "A map of the winter and summer range of the long-billed curlew" style="border:10px solid white" />
+
+<p>Long-billed curlews spend their summer breeding season in western North America. At this time of year, they live in prairies, pastures, and agricultural fields, where they can be seen using their long bills to pecking at the ground for the earthworms, grasshoppers, beetles, and spiders that make up the bulk of their summer diet.</p>
+
+<p>The curlews arrive on their breeding grounds in mid-March. Soon after their arrival, females and males begin building their nests together. Nest building starts by the male scraping the ground in several locations and the female choosing the location that she finds most suitable. The best nest sites are typically next to an object such as a pile of rocks, a shrub, or even a pile of cow manure. Together, the pair dig a 20 cm wide and 7 cm deep depression in the ground that they then line with grass and other plant matter. The female lays four eggs in the nest. Both the male and female birds incubate their eggs, which take about a month to hatch. The hatchlings are born with their eyes open and will leave the nest after about five hours. Initially, both parents care for their young by teaching them to hunt for invertebrates around the nest site. Two to three weeks after hatching, the female leaves and the male continues caring for the young. After one to one-and-a-half months the young are able to fly away from their nest site. Adults and young will spend the remainder of the breeding season apart, foraging in areas of tall grass and preparing for migration. </p>
+<br>
+
+<h2>Overwintering</h2>
+<img height="120px" align="left" src="winteringIcon.png" alt = "Wintering grounds icon"style="border:10px solid white"/>
+<p>Long-billed curlews spend their winters along the Pacific, Gulf, and southeastern coasts of the United States and in coastal and interior Mexico. During the winter, their habitat and diet can be quite different than that of the breeding season. At this time of year, they can be found mostly in wetlands, tidal <b>estuaries</b>, mudflats, and flooded fields. Along the coast their winter diet consists mostly of marine crustaceans and other marine invertebrates. Their long bill allows curlews to probe the sand and mud for deep-burrowing prey such as shrimp and crabs. </p>
+<br>
+
+<h2> Conserving the curlew</h2>
+
+<p> The long-billed curlew is on the 2016 State of North America’s Birds Watch List, which lists species most in danger of extinction without significant conservation efforts. Once abundant in North America, long-billed curlew populations declined as a result of hunting in late 1800s and early 1900s. At that time, curlews were seen as a game bird and were hunted in large numbers – some restaurants even included long-billed curlews on their menus! The Migratory Bird Treaty Act of 1916 made hunting curlews illegal and many of the populations rebounded. Some populations, however, never recovered and many are currently decreasing. Populations currently at risk include those that breed in the Great Plains of the United States and winter in eastern Mexico and along the southern United States coastlines.</p>
+
+
+<iframe src = "https://www.youtube.com/embed/q31iLQJXKbw?autoplay=0&version=3&loop=1&playlist=q31iLQJXKbw"
+	align="left" 
+	alt="Video of a long-billed curlew foraging."
+	width="555"
+	height="312"	
+    	frameborder="0" 
+	gesture="media"
+	style="margin-top: 10px;
+    		margin-bottom: 10px;
+    		margin-right:20px;
+    		margin-left: 0px;"></iframe>
+
+<p>The biggest threat to curlew populations currently is a reduction in the high-quality grassland habitat they need for their foraging and nesting activities. Millions of acres of grasslands in the United States have been lost due to fire suppression and human development. Suppression of wildfire causes grasslands to be overrun by forests and scrub habitats. One study found that a breeding population of curlews in Idaho increased by a third in the year following a wildfire. Agriculture has had one of the largest impacts on grassland habitat, due to the expansion of pasture and row crops in the western and midwestern United States. Agriculture can also have indirect effects on curlews -- for example, when farmers spray pesticides on crops they may reduce food supplies for these migratory birds. The decline of the curlew can only be stopped by taking measures to protect curlew habitat and food supplies during the breeding season. Scientists are currently tracking long-billed curlew to determine how they use the environment across their annual cycle. The results of these studies will help inform how we can best conserve this species. </p>
+<br>
+<p>To learn more about long-billed curlew, visit the following links:</p>
+
+<p><a target="_blank" href= "https://www.allaboutbirds.org/guide/Long-billed_Curlew/id">All About Birds</a></p>
+<p><a target="_blank" href="http://www.audubon.org/field-guide/bird/long-billed-curlew">Audubon</a></p>
+<p><a target="_blank" href="https://abcbirds.org/bird/long-billed-curlew/">American Bird Conservancy</a></p>
+<p><a target="_blank" href="https://tpwd.texas.gov/huntwild/wild/species/curlew/">Texas Parks and Wildlife</a></p>

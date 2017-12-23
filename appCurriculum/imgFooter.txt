@@ -1,0 +1,19 @@
+﻿<br>
+<hr>
+<div class="row">
+	<div class="col-sm-4">
+		<a target="_blank" href="https://nationalzoo.si.edu/animals/exhibits/experience-migration">
+          		<img src="experienceMigrationRAW.png"
+            			height="150px"
+            			style="border:20px solid white"
+            			alt = "Migratory Connectivity Project logo and link"></a>
+	</div>
+	<div class="col-sm-3"></div>
+	<div class="col-sm-5">
+		<a target="_blank" href="http://www.migratoryconnectivityproject.org/">
+        		<img src="migratory_connectivity_project.png" 
+				height="150px" 
+				style="border:20px solid white"
+				alt = "Migratory Connectivity Project logo and link"></a>
+	</div>
+</div>

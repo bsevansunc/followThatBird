@@ -1,0 +1,37 @@
+﻿<h1>Satellite telemetry</h1>
+<hr>
+
+<img src="satelliteTag1.jpg"
+	title="Satellite tag"
+	alt = "A photograph of a satellite tag"
+	align="left"
+	width="360px"  
+	style= "margin-top: 10px;
+    		margin-bottom: 10px;
+    		margin-right:20px;
+    		margin-left: 0px;"/>
+
+<p>One of the most exciting recent advancements in tracking technology is the development of <b>satellite telemetry</b>. In satellite telemetry, animals carry tracking devices whose position is calculated by satellites that orbit the Earth. There are two types of satellite tags commonly used to study birds, <b>Global Positioning System (GPS)</b>, and <b>Argos tags</b>. </p>
+
+<p>GPS tags receive and collect information about the time and position from a satellite and use this information to calculate an exact location (latitude, longitude, and elevation above sea level). GPS satellites were first launched into orbit by the United States Air Force in the 1970s and were made available for non-military purposes in the 1980s. At first, the satellite location data for the public was not very accurate, but in 2000 the public was given access to location data with the same accuracy as the military. Today, there are 31 GPS satellites in orbit that provide highly accurate location data. People now use this data daily on their smartphones to navigate to a restaurant, check traffic at rush hour, and of course, to find the locations of tagged birds!</p>
+
+<p>Instead of receiving information from a satellite like GPS tags do, Argos tags sends information to a system of satellites. The satellites then transmit the location of the tag back to receivers on the Earth’s surface. Argos satellites were first launched into orbit in 1978 by scientists at the French Space Agency, the US National Oceanic and Atmospheric Administration (NOAA), and the US National Aeronautics and Space Administration (NASA). The mission of Argos is to track animals and better understand our environment.</p>
+
+<p>Both GPS and Argos satellite tags provide scientists with the exact location of a bird at a given point in time. This information can either be stored on a device or transmitted. All Argos tags transmit location information but not all GPS tags do. For example, <b>archival GPS tags</b> store information. When using an archival tag, scientists must recapture the bird wearing the device to retrieve the stored information. Tags that transmit information do not need to be retrieved. These tags send the data to a receiving station, where researchers can access the data right on their computer. The tracking data you used in Lesson One was transmitted by Argos satellite tags. The use of these tags is completely changing how scientists study birds. Knowing exactly where a bird is on Earth at nearly exactly the time that they are there or in “real-time” scientists can better understand birds across their full annual cycle. </p>
+
+<img src="mist_and_cannon.jpg"
+	title="Catching birds with mist and cannon nets"
+	alt = "A photograph of a technician removing a bird from a mist net and a photograph of a cannon net catching birds on the beach"
+	align="right"
+	width="480px"  
+	style= "margin-top: 10px;
+    		margin-bottom: 10px;
+    		margin-right:0px;
+    		margin-left: 20px;"/>
+
+<p>Birds usually wear satellite telemetry tags on their backs. The tags are attached to a harness that is looped around the bird’s their wings or legs.  To put a satellite tag on a bird, scientists need to first capture the bird in a net. Smaller birds are caught in a <b>mist net</b> -- a tall, long net made out of very fine thread that is difficult for birds to see. Large birds may be caught in a <b>cannon net</b> -- a large net that is fired out of a cannon to catch large flocks of birds. Once caught, scientists place aluminum bands and a unique combination of colored plastic bands around a bird’s legs so that they can identify captured individuals (See “Bird banding”). Then, they attach the satellite tag to the bird before releasing it. If the tag is a transmitting satellite tag, the researcher can almost immediately follow the bird’s location by checking their computer.</p>
+
+<p>Satellite tags have huge advantages over other types of tracking technology because they tell scientists exactly where the bird went, often in real-time, but they do have some cons. The biggest con to these tags is their size. Satellite tags are very heavy and, for the transmitting tags, a bird must weigh at least  116.6 grams or 4 ounces to carry one. That means that many birds scientists study are too small to wear these tags. Satellite tags are heavy because of the power supply they use. If the tag is powered by a battery, it can be attached to a smaller bird but may only last a year or less. If the bird is large enough, it may carry a satellite tag powered by a solar panels, which could last the entire lifetime of the bird. Another con to satellite tags is their cost. Satellite tags currently cost between $3,000 and $7,000 per device. The cost for just one device is already high and scientists need to study many birds to answer a scientific question about them. This means that a study using satellite tags is  very expensive to conduct.</p>
+
+<p>To learn more about this exciting new technology, check out this <a target="_blank" href= "http://www.migratoryconnectivityproject.org/satellite-telemetry">link</a>!</p>
+

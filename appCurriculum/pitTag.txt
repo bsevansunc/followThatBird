@@ -1,0 +1,34 @@
+﻿<h1> PIT Tags: </b> Passive Integrated Transponders</h1>
+<hr>
+<img src="pitTagGRCH.jpg"
+	title="This small bird (around 16 grams) is wearing a PIT tag around its left leg."
+	alt="A photograph of small bird (around 16 grams) is wearing a PIT tag around its left leg."
+	align="left"
+	width="420px"  
+	style= "margin-top: 10px;
+    		margin-bottom: 10px;
+    		margin-right:20px;
+    		margin-left: 0px;"/>
+
+<p><b>Passive Integrated Transponders</b> or <b>"PIT tags"</b> are tracking tags that do not require power. Instead, they have an internal microchip that is activated when it passes close to a special antenna. The antenna is connected to computer that records the identity of the tag and the time in when it passed by the antenna. A common example of this tag is the "EZ-Pass" that you may have seen your parents use when driving on the highway. The EZ-Pass does not require power -- toll gates actually contain a giant antenna that talks to the tag to determine the identity of the car and record when it passed the gate.</p>
+
+<p> PIT tags can be attached to birds in a number of ways. The most common way is to glue the tag to a band (metal or plastic ring) that a bird carries on its legs. The tags can also be placed under a bird's skin or even injected into the bird using a small needle. </p>
+
+<p>PIT tags provide many advantages for researchers studying birds. The biggest advantage of this tag is that it does not need a battery. Because of this, a tag can last for the entire time that an animal is wearing it. Because these tags do not require batteries, they are also very light and can fit on birds of any size. Also, these devices are very inexpensive, with the cost per tag typically less than $2.00. This means that scientists can deploy lots of tracking devices without spending a lot of money. </p>
+
+<img src="pitTagNestbox.jpg"
+	title="A bird house equipped with a PIT tag reader. It records every time the bird goes through the door."
+	alt = "A picture equipped with a pit tag reader"
+	align="right"
+	width="300px"  
+	style= "margin-top: 10px;
+    		margin-bottom: 10px;
+    		margin-right:0px;
+    		margin-left: 20px;"/>
+
+<p>Though PIT tags are great for exploring some aspects of bird behavior, their use is limited to only certain types of applications. The main drawback of the device is that is has to be very close to the antenna to transmit data -- typically distances of a few inches to a few feet. Scientists will not retrieve any data if the bird is outside of that distance. Therefore, these devices can only provide data at the location of the antenna.</p>
+
+<p>Despite this drawback, with the correct antenna placement, scientists can learn a lot using PIT tags. By placing an antenna in a location where you expect a bird to go, you can determine many things. For example, by placing an antenna under a bird's nest, we can learn how often parents feed their young. By placing an antenna under a bird bath in an area without a natural source of water, we can determine how often a bird drinks or bathes.</p>
+ 
+<p>Want to learn more? Check out <a href="https://youtu.be/t0tz2vyteAY">this video</a>!</p>
+

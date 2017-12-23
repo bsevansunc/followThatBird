@@ -1,0 +1,31 @@
+﻿<h2><strong>Follow that bird!</strong> A science and technology unit on tracking birds</h2>
+
+<br> 
+
+<img width="320px" align="left" src="experienceMigrationMap.png" alt = "A map of the Western hemisphere illustrating some of the major bird flyways" title= "A map of the Western hemisphere illustrating some of the major bird flyways" style="margin-top: 0px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    margin-left: 0px;"/>
+
+<p><b>Migratory birds</b> often make fantastic voyages each year. <b>Migration</b> describes the regular annual movements that some animals make between regions where they breed and locations where they spend the rest of the year. Not all birds migrate, but those that do often go on a challenging journey of hundreds or even thousands of miles between their summer <b>breeding grounds</b> and their <b>wintering grounds</b>. These migrations likely evolved to ensure a steady food supply throughout the year and to avoid harsh climates. They are also one of nature's most remarkable phenomena.</p>
+
+<p>By the late 1900s, scientists had become increasingly alarmed by the fast decline in migratory bird populations. Currently, over half of all North American bird species are at risk of extinction unless we take significant conservation actions. (<a target="_blank" href="http://www.stateofthebirds.org/2016/#_ga=2.261032014.236205051.1511370017-1900407852.1511370017">State of North America's Birds 2016</a>). Scientists and conservation professionals have recognized that human activities, especially those that impact bird habitats, are the primary cause of this decline. Because migratory animals use many different kinds of habitats throughout their lives, recognizing the measures we can take to save these species can be challenging.</p>
+
+<p>To understand the impacts that humans have on migratory birds, it is necessary for us to learn how they interact with their environment at each point of their <b>full annual cycle</b>. The full annual cycle describes birds during their breeding, migration, and overwintering periods. Individuals and populations of migratory birds are geographically linked across the phases of their annual cycle. This is known as <a target="_blank" href="http://www.migratoryconnectivityproject.org/about/"><b>migratory connectivity</b></a>. For example, the migratory connectivity of an individual gray catbird may describe how it raises its young in Takoma Park, Maryland during the summer, migrates along the foothills of the Appalachian Mountains in the fall, spends its wintering period in Cuba, and then returns to Takoma Park the next year to breed. Migratory connectivity is important because individuals and populations can be impacted at any point of their life cycle and at any location.</p>
+
+<img width="400px" align="right" src="annualCycleFigure.png" alt = "A diagram of the full annual cycle of a migratory bird showing that birds breed in the summer" title= "Full annual cycle" 
+    style="margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 0px;
+    margin-left: 20px;"/>
+
+<p>Studies of migratory birds have mostly focused on their summer breeding or wintering grounds. Because of this, it is rare that we are able to determine the <b>migratory connectivity</b> of individuals or populations. This makes it difficult to understand what is causing their decline and to develop measures to reduce human impacts. Due to recent technological advances, Smithsonian scientists have begun employing <b>tracking technology</b> that allows us to observe the migratory connectivity of individual birds. Tracking involves attaching devices to birds and following their movements. By tracking birds we can learn where they go, when they are making their journeys, and whether they survive from year to year.</p>
+
+<br>
+
+<p>In this set of lessons, you will join Smithsonian scientists to use state-of-the-art tracking technology to explore the lives of migratory birds.</p>
+
+<br>
+
+
+

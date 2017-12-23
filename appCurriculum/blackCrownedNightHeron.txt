@@ -1,0 +1,70 @@
+﻿<h1>Black-crowned night heron</h1>
+<br>
+<img src="blackCrownNightHeron.jpg"
+	title="Black-crowned night heron"
+	alt = "Photograph of a black-crowned night heron perching on a branch" 
+	align="right" 
+	height="330px" 
+	style= "margin-top: 0px;
+    		margin-bottom: 10px;
+    		margin-right:0px;
+    		margin-left: 20px;"/>
+
+<p>The <b>black-crowned night heron</b> is a medium sized heron with a stocky build, black crown and gray body, and bright red eyes. Night herons weigh between 1.5 and 2.2 lbs (727-1014 g), have a wingspan of 45.3 to 46.5 in (115-118 cm), and are 22.8 to 26 in (58-66 cm in length). They are widespread throughout North America. In fact, they are the most widespread heron species in the world, breeding on every continent except Australia and Antarctica. They get their name from their habit of feeding between evening and early morning. They are opportunistic feeders with a diverse diet. They will feed on fish, leeches, earthworms, insects, crayfish, clams, amphibians, lizards, snakes, turtles, rodents, birds, eggs, and even garbage at landfills.</p>
+
+<hr>
+<br>
+<h2>Breeding</h2>
+<img height="120px" align="left" src="breedingIcon.png" alt = "Breeding grounds icon" style="border:10px solid white"/>
+<p>During the breeding season black-crowned night herons are widespread across North America, though they have larger populations on the coasts. Though they live in a wide variety of habitats during the breeding season the breeding habitat they chose must include a body of water in order to <b>forage</b> for food. The breeding habitat must also provide good tree cover for nesting and for shelter from predators. Their foraging grounds include swamps, streams, lakes, salt marshes, man-made ditches, and wet agricultural fields.
+</p>
+<img src="blackCrownedNightHeronPic2.jpg" 
+	title="Black-crowned night heron"
+	alt = "A photograph of a black-crowned night heron walking" 
+	align="left" 
+	width="460px"
+	style= "margin-top: 10px;
+		margin-bottom: 10px;
+    		margin-right: 20px;
+    		margin-left: 0px;"/>
+
+<p>Night herons nest in large colonies. One tree alone can have a dozen nests. The male chooses a nest site to start building the nest and displays himself to attract a mate. After a female has chosen her desired mate, the male will begin to gather nesting material and present it to the female. The female will then use the materials to complete the nest. The female lays about 3-5 eggs which are <b>incubated</b> by both parents for 24-26 days. After hatching, the chicks cannot control their body temperature for 10 days and must be constantly kept warm by one of the parents. Both parents will feed the chicks by placing partially digested food into their mouths. The young can climb out of the nest by 4 weeks and begin flying at 5 weeks. They will start following their parents to learn how to forage for another few weeks before they begin to fly away from the nesting site. </p>
+
+<br>
+<h2>Migration</h2>
+<img height="120px" align="left" src="migrationIcon.png" alt = "Migration icon" style="border:10px solid white"/>
+
+
+<img src="blackCrownedNightHeronRange.gif"
+	title="Black-crowned night heron range map"
+	alt = "A map of the winter and summer range of the black-crowned night heron" 
+	align="right"
+	width="300px"  
+	style= "margin-top: 10px;
+    		margin-bottom: 10px;
+    		margin-right:0px;
+    		margin-left: 20px;"/>
+<p>
+Black-crowned night herons in the northern part of their range are typically migratory while some populations in the southern US are not known to migrate or only migrate short distances. Southward migration begins in September or October and tends to follow either the coasts or the Mississippi river system. Migration typically occurs at night, either in small groups or alone.
+</p>
+<br>
+
+<h2>Overwintering</h2>
+<img height="120px" align="left" src="winteringIcon.png" alt = "Overwintering icon" style="border:10px solid white"/>
+<p>Wintering range is different for different populations of night herons. Populations that breed in the eastern United States tend to overwinter along the southern Atlantic coast and Caribbean shores. Populations that breed in the western United States tend to winter in Mexico. The wintering habitat is similar to the breeding habitat because they are dependent on the availability wetlands for foraging. They roost in large groups of anywhere between fifty to thousands of birds. Wintering birds begin to migrate northward to the breeding grounds by the end of March. 
+</p>
+<br>
+
+<h2>Conserving the black-crowned night heron</h2>
+
+<p>Black-crowned night herons are a common species but their numbers have declined slightly from 1966 to 2014, according to the North American Breeding Bird Survey. They are affected by a number of threats across their annual cycle, including wetland loss and water pollution. In the US, over 50% of the wetland habitat that these birds rely on has been lost, mostly due to human development and agriculture. They are also affected by the level of pollutants in the waters that they forage for food in. Sources of water pollution include pesticides and fertilizers used on farms and chemicals from industrial plants.</p>
+
+<p>Learn more about the black-crowned night heron and how we study them at the Smithsonian here:</p>
+<br>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/uZnZYlsoaT8" frameborder="0" gesture="media" allowfullscreen></iframe>
+<br>
+<br>
+<p>Want to learn even more about the black-crowned night heron? Check out these links:</p>
+<p><a target="_blank" href= "https://www.allaboutbirds.org/guide/Black-crowned_Night-Heron/id">All About Birds</a></p>
+<p><a target="_blank" href="http://www.audubon.org/field-guide/bird/black-crowned-night-heron">Audubon</a></p>
+

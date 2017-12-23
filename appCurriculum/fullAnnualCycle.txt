@@ -1,0 +1,92 @@
+﻿<script>
+$(document).ready(function(){
+    $('[data-toggle="tooltip"]').tooltip(); 
+});
+</script>
+
+<a data-toggle="modal" href="#myModal" class="button">
+<img width="400px" align="right" src="annualCycleFigure.png" alt = "A diagram of the full annual cycle of a migratory bird showing that birds breed in the summer" title= "Full annual cycle" 
+    style="margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 0px;
+    margin-left: 20px;"/>
+</a>
+
+<h1>The full annual cycle of migratory birds</h1>
+<br>
+
+
+<p>
+<p>To understand how birds interact with their environment, it is necessary to consider their <b>full annual cycle</b>. The full annual cycle of birds describes their ecology across the year. For migratory birds, the annual cycle can be divided into four phases: breeding, migration away from the breeding grounds, <b>overwintering</b>, and migration back to their breeding grounds. At each phase, birds may live in different habitats or have different needs.</p>
+<br>
+
+<h2>The full annual cycle of the gray catbird</h2>
+<br>
+
+<img width="460px" align="left" src="catbirdTagged.jpg" alt = "A photograph of a tagged gray catbird in a scientist's hand" title= "A gray catbird in the hand"
+    style="margin-top: 10px;
+    margin-bottom: 10px;
+    Margin-right:20px;
+    margin-left: 0px;"/>
+
+<p>To illustrate the full annual cycle of migratory birds, we will look in-depth at the gray catbird. The gray catbird is a songbird that is common to wild areas, suburbs, and cities of the most of the continental United States during the spring and summer months. They are called a catbird because of their distinct call, which sounds a bit like a cat’s meow. When singing, the gray catbird is a mimic – its song is a collection of sounds that they’ve heard throughout their lives. Because catbirds can be found in so many different habitats, scientists at the Smithsonian Migratory Bird Center have been closely studying the catbird for over 20 years in the Washington, DC metropolitan area. We have used much of the tracking technology you will explore in this set of lessons to research their annual cycle.</p>
+<br>
+<h3>Breeding</h3>
+
+<img height="120px" align="left" src="breedingIcon.png" alt = "Breeding grounds icon" style="border:10px solid white"/>
+
+<p>Catbirds begin arriving in Washington, DC in late April and early May. When they first arrive there are loads of catbirds everywhere and the city is full of their song. Many of the catbirds we see live far north of the city and are just stopping through during their migration. Within a week or two, only the birds that will stay for the whole summer are left. The remaining catbirds use their song to stake out territories for constructing nests.</p>
+
+<p>Female catbirds build their nests in dense shrubs using thin twigs and grasses. They will often weave bits of colorful plastic they find into their nests. Once completed, the female will lay one to six bright turquoise green eggs in the nest. She will <b>incubate</b> the eggs, sitting on them to keep them warm, for about two weeks. Because she has to spend most of her time on the nest she is vulnerable to predators during <b>incubation</b>. When the eggs hatch, the nestlings emerge helpless with closed eyes and no feathers. Both parents will quickly get to work feeding the nestlings. The parents and young feed on a diet of a variety of insects during this time, but are especially partial to caterpillars. This high-protein diet is necessary because the nestlings will have to grow to the same size as their parents by the time they leave the nest – a period of less than two weeks!</p>
+
+<img width="340px" align="right" src="catbirdNest.jpg" alt = "The nest of a gray catbird" title= "Gray catbird nest"
+    style="margin-top: 0px;
+    margin-bottom: 10px;
+    Margin-right: 0px;
+    margin-left: 20px;"/>
+
+<p>Once the nestlings are big enough and have grown the feathers that will allow them to fly, they leave the nest. This process is known as <b>fledging</b>. At this point, the young catbirds are called “fledglings” and they will join their parents in a hunt for insects to eat. The fledglings are still very weak and need to gain a lot of weight to survive. The new fledglings are also not great flyers yet and are just beginning to get used to the new world they’ve launched into. This makes them an easy target for predators, especially the outdoor cat, which often spends much of its time hunting for birds in suburban gardens. Most of the fledglings won’t survive for more than a week. When they are strong enough, those that survive will leave their parents after a few more weeks to explore their surroundings.</p>
+
+<h3>Migration</h3>
+<img height="120px" align="left" src="migrationIcon.png" alt = "Migration icon" style="border:10px solid white"/>
+
+<p>The environment changes a lot over the course of the summer. The catbirds must shift their diet with the changing season to get ready for migration. By the end of the summer, there are fewer caterpillars and other insects to eat. Luckily, the plants that were flowering in spring and early summer have begun to produce berries. Adding fruit to their diet helps the catbirds put on a lot of weight in the form of fat. The fat acts like a rechargeable battery during their migration – the energy that they get from the food that they eat is stored in the fat and provides the power for their migratory journey.
+</p>
+
+<img width="320px" align="left" src="catbirdTag.jpg" alt = "A photograph of a gray catbird with a tracking tag being added" title= "Adding a tracking tag to study the movements of a gray catbird" style="margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    margin-left: 0px;"/>
+
+<p>Based on tracking data, including <b>light-level geolocator</b> tags, we know that catbirds from different breeding grounds will make their fall migration to different locations. The routes the birds take during migration also differs, even among birds from the same breeding location. For example, some of the Washington, DC catbirds we have tracked followed the Atlantic coastline while others traveled along the foothills of the Appalachian Mountains – a long mountain chain that runs from Georgia to Maine. Likewise, the amount of time spent during migration varies by individual. Some of the birds that we have tracked have taken several weeks to complete their journey while others make the trip in less than a week. Some catbirds even stop for a long time before completing their migration – one of the birds that we tracked stopped in the Appalachian Mountain foothills for over a month before continuing its journey!</p>
+
+<img width="340px" align="right" src="grcaGif.gif" alt = "An animation of the fall migrations of five gray catbirds tagged in Washington, DC" title= "catbird migration animation"
+    style="margin-top: 0px;
+    margin-bottom: 10px;
+    Margin-right: 0px;
+    margin-left: 20px;"/>
+
+<h3>Overwintering</h3>
+
+<img height="120px" align="left" src="winteringIcon.png" alt = "Overwintering icon" style="border:10px solid white"/>
+
+<p>Using tracking data we have found that catbirds in Washington, DC travel mostly to Florida and Cuba. Tracking data has shown that catbird populations from the midwest and western United States travel to the southern coast of the United States and to Mexico.</p>
+
+<p>The winter habitats of the gray catbird are very similar to the habitat where they spend their summers. Most of the catbirds we’ve tracked overwinter in habitats with lots of shrubs. These habitats tend to have lots of cover to avoid predators and lots of berry producing plants and insects to supply catbirds with food. If they would’ve stayed in the North over the winter, their food supply would be very limited and most would not survive.</p>
+
+<p>Being closer to the equator than where they breed, the climate of the catbirds’ overwintering locations tends to be mild and comfortable. By spending the winter in the south, the catbirds are not exposed to the dangerous cold of northern winters.</p>
+
+<p>As spring approaches, the catbirds start to become restless. Their sleep cycle changes and they start <b>foraging</b> for food later in the day. The catbirds will again gain a lot of weight, now to power their migration north. If they stayed healthy through the winter, have stored enough energy in the form of fat, and survive their journey north, they will return to their summer range to breed.</p>
+
+<p>To learn more about the gray catbird, check out the following links:</p>
+
+<p><a target="_blank" href= "https://nationalzoo.si.edu/migratory-birds/news/singing-city-or-country-how-urbanization-affects-gray-catbird">Migratory Bird Center Expedition blog: Catbird song</a></p>
+<p><a target="_blank" href= "https://nationalzoo.si.edu/migratory-birds/news/tracking-catbirds-conservation-technology">Migratory Bird Center Expedition blog: Catbird tracking</a></p>
+<p><a target="_blank" href= "https://www.allaboutbirds.org/guide/Gray_Catbird/id">All About Birds</a></p>
+<p><a target="_blank" href="http://www.audubon.org/field-guide/bird/gray-catbird">Audubon</a></p>
+<p><a target="_blank" href="https://ebird.org/ebird/map/grycat?neg=true&env.minX=&env.minY=&env.maxX=&env.maxY=&zh=false&gp=false&ev=Z&mr=1-12&bmo=1&emo=12&yr=all&byr=1900&eyr=2017">Interactive distribution map (eBird)</a></p>
+
+
+
+
+

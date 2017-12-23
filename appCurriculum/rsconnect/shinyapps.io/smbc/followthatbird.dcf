@@ -1,0 +1,12 @@
+name: followthatbird
+title: followThatBird
+username:
+account: smbc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 235022
+bundleId: 1146716
+url: https://smbc.shinyapps.io/followthatbird/
+when: 1513883170.89509
+asMultiple: FALSE
+asStatic: FALSE

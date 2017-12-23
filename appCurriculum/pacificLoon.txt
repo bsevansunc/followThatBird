@@ -1,0 +1,83 @@
+<h1>Pacific loon</h1>
+<br>
+
+<img src="pacificLoon.jpg"
+	title="Pacific loon"
+	alt = "Photograph of a Pacific loon" 
+	align="right" 
+	height="330px" 
+	style= "margin-top: 0px;
+    		margin-bottom: 10px;
+    		margin-right:0px;
+    		margin-left: 20px;"/>
+
+<p>The <b>Pacific loon</b> is thought to be the most abundant loon in North America. They weigh between 2.2 and 5.5 lbs (1000-2500 g), have a wingspan of up to 4.2 ft (110-128 cm), and are about 2 to 2.5 ft (58-74 cm) in length. Except for their three-month breeding season which they spend on freshwater lakes in northern Canada, Alaska, and Siberia, they spend all of their time on the ocean in open water. They forage for food by dipping their head under the water and then diving, propelled by their feet, when they spot a prey item. Throughout the year, they feed mainly on fish and aquatic invertebrates which they swallow whole while underwater. While they are very agile in the water, they move awkwardly on land. In fact, they can only take off from water, requiring a stretch of 100 to 165 feet (30-50 meters) of water to achieve flight, flapping their wings along the surface until they are able to lift off.</p>
+<hr>
+<br>
+
+<h2>Breeding</h2>
+<img height="120px" align="left" src="breedingIcon.png" alt = "Breeding grounds icon" style="border:10px solid white"/>
+
+<p>
+The Pacific loon breeds in tundra lakes in northern Canada, Alaska, and Siberia. They tend to prefer deep freshwater lakes without a lot of submerged vegetation, especially those with small islands they can use for nesting. In the southern part of their range, they begin breeding in March, whereas in the northern part of their range timing is dependent on the arrival of spring. Pairs of loons bond with each other by performing courtship displays that involve simultaneous diving and head movements. The same pair of loons will return to the same breeding grounds to mate with each other year after year. Both the male and the female of the pair participate in building the nest, which is just a depression in the ground or a heap of vegetation. They build their nests close to their breeding pond so that they can easily escape to the safety of the water if threatened.
+</p>
+
+<p>
+The female lays 1-2 eggs and both parents take turns <b>incubating</b> the eggs until they hatch. The chicks leave the nest one to two days after hatching and are able to swim immediately, but will not be able to fly until they are about 50 to 55 days old. Parents forage for food both in the freshwater breeding ponds and in the ocean nearby. Both parents feed the young until they are old enough to forage for themselves and disperse to new areas, at around 57 to 64 days old.
+</p>
+
+<img src="pacificLoonRange.gif"
+	title="Pacific loon range map"
+	alt = "A map of the winter and summer range of the Pacific loon" 
+	align="right"
+	width="300px"  
+	style= "margin-top: 10px;
+    		margin-bottom: 10px;
+    		margin-right:0px;
+    		margin-left: 20px;"/>
+
+<br>
+<h2>Migration</h2>
+
+<img height="120px" align="left" src="migrationIcon.png" alt = "Migration icon" style="border:10px solid white"/>
+
+<p>
+During migration, loons shift from freshwater breeding habitats to coastal marine habitats. Migration typically occurs during the daytime and in small flocks. Loons do not stop on land to rest during migration, but instead will rest on open ocean. The marine habitats chosen by the loons for stopovers during migration tend to be high in tiny organisms called zooplankton, which attract larger prey items, such as fish, that the loons will eat.
+</p>
+
+<br>
+
+<h2>Overwintering</h2>
+<img height="120px" align="left" src="winteringIcon.png" alt = "Overwintering icon" style="border:10px solid white"/>
+
+<p>
+The Pacific loon spends its winters in the coastal waters off of either the Pacific coast of North America as far south as Baja California, or the Pacific coast of Asia as far south as eastern China. During this time of the year, they rely entirely on the ocean for foraging. Pacific loons are more social than other loon species and have been observed feeding cooperatively with Arctic loons. Their cooperative feeding behavior was even the basis of a traditional Japanese fishing method called loon fishing. Fishermen observed the loons fishing cooperatively by swimming under and around schools of sand lance, a small fish, forcing them to the surface in a tight cluster where they could easily be caught. The fishermen would then target the larger species of fish that would come to feed on this cluster. With this method, fishermen could earn their entire yearly livelihoods in just two months.
+</p>
+
+<h2>Conserving the Pacific loon</h2>
+
+<img src="pacificLoonPic2.jpg" 
+	title="The Pacific loon"
+	alt = "A picture of the Pacific loon" 
+	align="left" 
+	width="420px"
+	style= "margin-top: 10px;
+		margin-bottom: 10px;
+    		margin-right: 20px;
+    		margin-left: 0px;"/>
+<p>
+Pacific loons are abundant, but many populations face challenges from humans. One of the threats to Pacific loon populations is harmful algal blooms that can occur in oceans or freshwater bodies. An algal bloom happens when algae grows out of control. Some algal blooms produce toxic chemicals that can kill birds and other wildlife. In 2007, an algal bloom killed over a thousand seabirds off the northwest Pacific coast, including migrating Pacific loons. Algal blooms are caused by rising ocean temperatures due to climate change and fertilizers used on farms that make their way into our oceans and other waterways. Efforts to curb climate change and reduce runoff from agricultural fields can prevent algal blooms from happening.
+</p>
+
+<p>
+Toxic chemicals such as mercury that are produced by coal-fired power plants become more concentrated the closer you get to the North Pole. Since the Pacific loon breeds so far north, they are vulnerable to the harmful effects of these chemicals. Efforts to reduce pollution and our reliance on coal power can reduce this threat.
+</p>
+
+<br>
+
+<p>Want to learn more about the Pacific loon? Check out these links:</p>
+
+<p><a target="_blank" href= "https://www.allaboutbirds.org/guide/Pacific_Loon/id">All About Birds</a></p>
+<p><a target="_blank" href="http://www.audubon.org/field-guide/bird/pacific-loon">Audubon</a></p>
+
+
