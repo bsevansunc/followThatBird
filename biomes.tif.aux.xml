@@ -1,0 +1,17 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <CategoryNames>
+      <Category></Category>
+      <Category>Boreal forest</Category>
+      <Category>Desert and dry shrubland</Category>
+      <Category>Grassland, savannah, and shrubland</Category>
+      <Category>Mangrove</Category>
+      <Category>Mediterranean forest, woodland, and shrub</Category>
+      <Category>Rock and ice</Category>
+      <Category>Temperate forest</Category>
+      <Category>Tropical and subtropical forest</Category>
+      <Category>Tundra</Category>
+      <Category>Wetland</Category>
+    </CategoryNames>
+  </PAMRasterBand>
+</PAMDataset>
