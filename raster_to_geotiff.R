@@ -25,3 +25,16 @@ levels(biomes_rat)[[1]]$NAME <- biomeLevels$biome
 writeRaster(biomes_rat, 'biomes.tif', format = 'GTiff', overwrite = TRUE)
 
 raster('biomes.tif') %>% plot
+
+agProj <-
+  projectRaster(ag, projection(biomes))
+
+
+# change rasters to kml for getting png -----------------------------------
+
+agProj <- projectRaster(ag, crs = "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs")
+
+
+writeRaster(agProj, 'ag.tif', format = 'GTiff', overwrite = TRUE)
+
+KML(agProj, 'agK.kml', maxpixels = Inf, blur = 10, overwrite = TRUE)
