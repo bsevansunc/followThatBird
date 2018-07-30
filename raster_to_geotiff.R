@@ -50,7 +50,6 @@ KML(raster('biomes.tif'), 'biomes.kml', col = bioColors, maxpixels = Inf, blur =
 # begin to color ----------------------------------------------------------
 
 
-
 # Biome colors:
 
 factPal <- colorFactor(bioColors, domain = 1:10, na.color = 'transparent')
