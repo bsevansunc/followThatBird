@@ -1,0 +1,29 @@
+[general]
+creator=R package 'raster'
+created=2017-12-04 14:51:36
+[georeference]
+nrows=2542
+ncols=1701
+xmin=-18700052.5216099
+ymin=-7510595.18454291
+xmax=-1349852.52160995
+ymax=18417804.8154571
+projection=+init=epsg:3857 +proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +no_defs
+[data]
+datatype=FLT8S
+byteorder=little
+nbands=1
+bandorder=BIL
+categorical=TRUE
+ratnames=ID:biome
+rattypes=integer:character
+ratvalues=1:2:3:4:5:6:7:8:9:10:Boreal forest:Desert and dry shubland:Grassland, savannah, and shrubland:Mangrove:Mediterranean forest, woodland, and shrub:Rock and ice:Temperate forest:Tropical and subtropical forest:Tundra:Wetland
+minvalue=1
+maxvalue=10
+nodatavalue=-1.7e+308
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=layer

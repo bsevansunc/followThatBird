@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<GroundOverlay>
+<name>layer</name>
+<Icon><href>biomesBig.png</href><viewBoundScale>0.75</viewBoundScale></Icon>
+	<LatLonBox>
+		<north>84.08502</north><south>-56.23098</south><east>-11.6242299399997</east><west>-168.44342994</west>
+	</LatLonBox>
+</GroundOverlay></kml>

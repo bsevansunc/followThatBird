@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<GroundOverlay>
+<name>layer</name>
+<Icon><href>bigAg_proj4326.png</href><viewBoundScale>0.75</viewBoundScale></Icon>
+	<LatLonBox>
+		<north>60.6062731149565</north><south>-57.7032268850435</south><east>-30.6448630166179</east><west>-126.366863016618</west>
+	</LatLonBox>
+</GroundOverlay></kml>
