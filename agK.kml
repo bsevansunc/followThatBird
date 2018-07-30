@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<GroundOverlay>
+<name>layer</name>
+<Icon><href>agK.png</href><viewBoundScale>0.75</viewBoundScale></Icon>
+	<LatLonBox>
+		<north>60.1487731149565</north><south>-57.1542268850435</south><east>-30.9308630166179</east><west>-125.907863016618</west>
+	</LatLonBox>
+</GroundOverlay></kml>

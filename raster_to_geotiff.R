@@ -37,4 +37,28 @@ agProj <- projectRaster(ag, crs = "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_d
 
 writeRaster(agProj, 'ag.tif', format = 'GTiff', overwrite = TRUE)
 
-KML(agProj, 'agK.kml', maxpixels = Inf, blur = 10, overwrite = TRUE)
+KML(agProj, 'agK.kml', col = colorRamps::matlab.like(10), maxpixels = Inf, blur = 10, overwrite = TRUE)
+
+
+# begin to color ----------------------------------------------------------
+
+# Color set for biomes:
+
+bioColors <- c("#9E0142", "#D9444E", "#F77E4A", "#FEC171", "#F3EB91", "#C2E6A0",
+               "#79C9A5", "#3D8FBA", "#3D64BA", "#5E4FA2")
+
+# Biome colors:
+
+factPal <- colorFactor(bioColors, domain = 1:10, na.color = 'transparent')
+
+# Agricultural intensity colors:
+
+pal <- colorNumeric(colorRamps::matlab.like(10), c(0, values(agriculture)),
+                    na.color = "transparent")
+
+# Set colors for birds:
+
+colorPalette <- colorFactor(
+  colorRamps::primary.colors(length(unique(tracks$birdID))),
+  tracks$birdID
+)
